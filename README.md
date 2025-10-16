@@ -123,46 +123,7 @@ Este projeto demonstra habilidades em desenvolvimento full-stack, integrando mú
 
 
 
-##  Banco de Dados
 
-### Estrutura de Tabelas
-
-\`\`\`sql
-portfolio_db
-├── users                 # Usuários do sistema
-├── skills                # Habilidades técnicas
-├── projects              # Projetos do portfólio
-├── contacts              # Mensagens de contato
-├── experiences           # Experiências profissionais
-├── education             # Formação acadêmica
-├── certifications        # Certificações
-├── testimonials          # Comentários de visitantes
-├── social_links          # Links de redes sociais
-└── audit_logs            # Logs de auditoria
-\`\`\`
-
-### Relacionamentos
-
-- `skills` → `users` (many-to-one)
-- `projects` → `users` (many-to-one)
-- `experiences` → `users` (many-to-one)
-- `education` → `users` (many-to-one)
-- `certifications` → `users` (many-to-one)
-- `testimonials` → `users` (many-to-one)
-
-### Views Disponíveis
-
-- `vw_user_profile`: Perfil completo do usuário
-- `vw_active_projects`: Projetos ativos
-- `vw_recent_contacts`: Contatos recentes
-
-### Stored Procedures
-
-- `sp_get_user_stats(user_id)`: Estatísticas do usuário
-- `sp_add_skill(user_id, name, category, level)`: Adicionar habilidade
-- `sp_log_contact(name, email, message)`: Registrar contato
-
----
 
 ## 🎨 Design System
 
