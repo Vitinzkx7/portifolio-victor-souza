@@ -171,7 +171,7 @@ Este projeto é de uso pessoal para o portfólio de Victor Souza.
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Victor Souza**
 
@@ -213,7 +213,7 @@ Este projeto é de uso pessoal para o portfólio de Victor Souza.
 
 ---
 
-## 🙏 Agradecimentos
+##  Agradecimentos
 
 - [Next.js](https://nextjs.org/) - Framework React
 - [Tailwind CSS](https://tailwindcss.com/) - Framework CSS
