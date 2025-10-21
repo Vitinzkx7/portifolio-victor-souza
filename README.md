@@ -209,7 +209,7 @@ Este projeto é de uso pessoal para o portfólio de Victor Souza.
 - 📧 Email: victornex2006@hotmail.com
 - 💼 LinkedIn: [linkedin.com/in/victor-souza-2b8096282](www.linkedin.com/in/victor-souza-2b8096282)
 - 🐙 GitHub: [github.com/Vitinzkx7](https://github.com/Vitinzkx7)
-- 🌐 Portfólio: [https://portifolio-zu5gnehma-victor-souzas-projects.vercel.app/)
+- 🌐 Portfólio: https://portifolio-zu5gnehma-victor-souzas-projects.vercel.app/
 
 ---
 
