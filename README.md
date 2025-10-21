@@ -27,7 +27,7 @@ Este projeto demonstra habilidades em desenvolvimento full-stack, integrando mú
 - 🎨 **Design Moderno**: Interface com tema escuro e azul neon vibrante
 - 👤 **Perfil Dinâmico**: Seção hero com foto de perfil e informações pessoais
 - 💼 **Portfólio de Projetos**: Integração com GitHub API para exibir repositórios
-- 🛠️ **Habilidades Técnicas**: Categorização de skills por nível de proficiência
+- 🛠️ **Habilidades Técnicas**: Categorização de Habilidades por nível de proficiência
 - 📜 **Certificações**: Exibição de certificados e conquistas acadêmicas
 - 💬 **Sistema de Comentários**: Visitantes podem deixar feedback com avaliação por estrelas
 - 📧 **Formulário de Contato**: Integrado com Web3Forms para envio de emails
