@@ -18,7 +18,7 @@
 
 ##  Sobre o Projeto
 
-Olá, eu sou Victor Souza, sou Técnico em Automação Industrial e Estudante do 2º Período de Ciência da Computação na Unileste. Apaixonado por Tecnologia e Ciência de Dados, com objetivo de se tornar Cientista de Dados.
+Olá, eu sou Victor Souza, sou Estudante do 2º Período de Ciência da Computação na Unileste. Apaixonado por Tecnologia e Ciência de Dados, com objetivo de se tornar Cientista de Dados.
 Foram 4 Árduos meses,mas finalmente consegui terminar meu portifólio.
 Este projeto demonstra habilidades em desenvolvimento full-stack, integrando múltiplas tecnologias e frameworks modernos em uma aplicação completa e funcional.
 
@@ -190,7 +190,7 @@ Este projeto é de uso pessoal para o portfólio de Victor Souza.
 
 **Desenvolvimento Web:**
 - HTML (Avançado)
-- CSS (Avnçado)
+- CSS (Avançado)
 - Node.js (Intermediário)
 - React (Intermediário)
 - Next.js (Intermediário)
@@ -202,7 +202,9 @@ Este projeto é de uso pessoal para o portfólio de Victor Souza.
 - FastAPI
 - Flask
 - Spring Boot
-- Express.js
+- Node.js
+- React
+- Next.js
 
 ### Contato
 
